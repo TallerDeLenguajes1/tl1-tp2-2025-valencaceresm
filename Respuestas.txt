@@ -1,0 +1,1 @@
+* Ramas y commits: Se observa claramente la relación entre las ramas y los commits. El commit de fusión "merge Opcion_2" está en la rama main, mientras que los commits "Agrego tp2_1_2" está en la rama Opcion_2.
